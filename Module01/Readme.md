@@ -21,6 +21,8 @@
    - Take a screenshot of the working code.
    - Adjust the `Module01\Readme.md` so it properly displays your screenshot.  
    - Upload a screenshot of the running Hello World program to BBLearn for your "Assignment".
+   
+![alt text](file:///Users/ericmarcelis/Desktop/Screen%20Shot%202019-06-27%20at%202.16.19%20AM.png "Screenshot")
 
 ## Rubric
 
