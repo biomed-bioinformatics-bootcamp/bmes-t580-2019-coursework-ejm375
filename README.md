@@ -52,4 +52,4 @@ Letter grades will be assigned using the standard Drexel scale.
 Will Dampier (judowill)
 
 ### Course Work
-Your Name here.
+Eric Marcelis (ejm375)
