@@ -32,6 +32,8 @@
   - Add links to any resources used. This includes results of google-searches, Stack-Overflow posts, blog-posts, etc.
 3. Add a link to the repo to BBLearn as your "Assignment".
 
+![alt text](https://i.imgur.com/8OOFSNY.png "Guess A Primer")
+
 ### Guess A Primer
 
 Dozens of molecular biology techniques use oligigonucleotide primers as fundemental tools to answer bioligical questions.
